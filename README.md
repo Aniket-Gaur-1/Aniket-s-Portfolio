@@ -3,7 +3,7 @@
 Software Developer focused on real-time systems, collaborative products, and performance-first web applications.
 
 ## About Me
-I am a Master's student in Computer Applications and a developer who enjoys building polished, scalable, and practical software. My primary focus is full-stack web development with strong interest in real-time communication and system design.
+I have done my Master's in Computer Applications and a developer who enjoys building polished, scalable, and practical software. My primary focus is full-stack web development with strong interest in real-time communication and system design.
 
 ## What I Build
 - Real-time collaborative platforms
