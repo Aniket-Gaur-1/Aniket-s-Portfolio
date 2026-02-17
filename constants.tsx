@@ -33,7 +33,7 @@ export const PROJECTS: Project[] = [
     period: "May 2025 – Jun 2025",
     technologies: ["React", "Node.js", "Socket.io", "WebRTC"],
     imageUrl: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?auto=format&fit=crop&q=80&w=1200",
-    liveUrl: "https://example.com",
+    liveUrl: "https://collaboard-roan.vercel.app/",
     codeUrl: "https://github.com/Aniket-Gaur-1",
     description: [
       "Developed a real-time collaborative whiteboard featuring live drawing, chat, and video calling for multi-user environments.",
