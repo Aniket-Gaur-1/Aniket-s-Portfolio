@@ -34,7 +34,7 @@ export const PROJECTS: Project[] = [
     technologies: ["React", "Node.js", "Socket.io", "WebRTC"],
     imageUrl: "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?auto=format&fit=crop&q=80&w=1200",
     liveUrl: "https://collaboard-roan.vercel.app/",
-    codeUrl: "https://github.com/Aniket-Gaur-1",
+    codeUrl: "https://github.com/Aniket-Gaur-1/Collaboard",
     description: [
       "Developed a real-time collaborative whiteboard featuring live drawing, chat, and video calling for multi-user environments.",
       "Engineered a low-latency event-driven architecture that enabled real-time synchronization for 10+ concurrent users.",
@@ -49,7 +49,7 @@ export const PROJECTS: Project[] = [
   technologies: ["HTML", "CSS", "JavaScript", "Canvas API", "Web Audio API"],
   imageUrl: "https://images.unsplash.com/photo-1511512578047-dfb367046420?auto=format&fit=crop&q=80&w=1200",
   liveUrl: "https://arena-rush-pearl.vercel.app/",
-  codeUrl: "https://github.com/Aniket-Gaur-1",
+  codeUrl: "https://github.com/Aniket-Gaur-1/Arena-Rush",
   description: [
     "Built a fast-paced survival arena game using vanilla JavaScript and the Canvas API with real-time rendering and smooth animation loops.",
     "Designed scalable enemy systems including multiple enemy types, mini-boss mechanics, attack phases, and dynamic difficulty scaling.",
@@ -65,7 +65,7 @@ export const PROJECTS: Project[] = [
     technologies: ["JavaScript", "HTML", "CSS"],
     imageUrl: "https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&q=80&w=1200",
     liveUrl: "https://example.com",
-    codeUrl: "https://github.com/Aniket-Gaur-1",
+    codeUrl: "https://github.com/Aniket-Gaur-1/Sorting_visualizer",
     description: [
       "Developed an interactive visualization tool for 5+ sorting algorithms to facilitate real-time performance comparisons.",
       "Optimized rendering logic to eliminate UI lag and ensure frame consistency during large dataset animations.",
