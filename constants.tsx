@@ -42,6 +42,21 @@ export const PROJECTS: Project[] = [
     ]
   },
   {
+  id: "contextcast",
+  title: "ContextCast",
+  subtitle: "AI-Powered Meeting Memory",
+  period: "Mar 2025",
+  technologies: ["React", "Vite", "Gemini API", "JavaScript"],
+  imageUrl: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&q=80&w=1200",
+  liveUrl: "https://context-cast.vercel.app/",
+  codeUrl: "https://github.com/Aniket-Gaur-1/ContextCast",
+  description: [
+    "Built a local-first meeting memory tool that uses Gemini AI to auto-extract decisions, action items, and summaries from raw transcripts.",
+    "Implemented natural language semantic search across all meetings, enabling queries like 'what did we decide about the API?' with AI-generated answers.",
+    "Designed a zero-backend architecture using localStorage for full persistence, with features including dark mode, PDF export, overdue action tracking, and per-person meeting stats."
+  ]
+},
+  {
   id: "arena-rush",
   title: "Arena Rush",
   subtitle: "Canvas-Based Survival Arena Game",
