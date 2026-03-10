@@ -48,7 +48,7 @@ export const PROJECTS: Project[] = [
   period: "Mar 2025",
   technologies: ["React", "Vite", "Gemini API", "JavaScript"],
   imageUrl: "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?auto=format&fit=crop&q=80&w=1200",
-  liveUrl: "https://context-cast.vercel.app/",
+  liveUrl: "https://context-cast-omega.vercel.app/",
   codeUrl: "https://github.com/Aniket-Gaur-1/ContextCast",
   description: [
     "Built a local-first meeting memory tool that uses Gemini AI to auto-extract decisions, action items, and summaries from raw transcripts.",
