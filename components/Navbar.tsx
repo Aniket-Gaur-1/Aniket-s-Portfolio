@@ -17,12 +17,12 @@ const Navbar: React.FC = () => {
   }, []);
 
   const navItems = [
-    { name: 'About', href: '#about' },
-    { name: 'Projects', href: '#projects' },
-    { name: 'Gallery', href: '#gallery' },
-    { name: 'Skills', href: '#skills' },
-    { name: 'Blog', href: '#blog' },
-    { name: 'Education', href: '#education' },
+    { name: 'About', href: '/#about' },
+    { name: 'Projects', href: '/#projects' },
+    { name: 'Gallery', href: '/#gallery' },
+    { name: 'Skills', href: '/#skills' },
+    { name: 'Blog', href: '/#blog' },
+    { name: 'Education', href: '/#education' },
   ];
 
   const handleMouseEnter = (index: number) => {
@@ -51,7 +51,7 @@ const Navbar: React.FC = () => {
       isScrolled ? 'apple-glass border-b border-gray-200/50 py-3' : 'bg-transparent py-6'
     }`}>
       <div className="max-w-6xl mx-auto px-6 flex justify-between items-center">
-        <a href="#" className="text-xl font-bold tracking-tight text-[#1d1d1f] group">
+        <a href="/" className="text-xl font-bold tracking-tight text-[#1d1d1f] group">
           {PERSONAL_INFO.name}
           <span className="inline-block transition-transform group-hover:rotate-12 ml-1">🚀</span>
         </a>

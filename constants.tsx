@@ -1,5 +1,5 @@
 
-import { Project, SkillCategory, Certification, Education, BlogPost } from './types';
+import { Project, SkillCategory, Certification, Education } from './types';
 
 export const PERSONAL_INFO = {
   name: "Aniket",
@@ -149,34 +149,4 @@ export const GALLERY_IMAGES = [
   "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&q=80&w=600",
   "https://images.unsplash.com/photo-1517694712202-14dd9538aa97?auto=format&fit=crop&q=80&w=600",
   "https://images.unsplash.com/photo-1550439062-609e1531270e?auto=format&fit=crop&q=80&w=600"
-];
-
-export const BLOG_POSTS: BlogPost[] = [
-  {
-    id: "1",
-    title: "The Future of Real-Time Collaboration",
-    excerpt: "Exploring how WebRTC and WebSockets are changing the way we work together online in 2025.",
-    date: "June 12, 2025",
-    readTime: "5 min read",
-    category: "Engineering",
-    imageUrl: "https://images.unsplash.com/photo-1552664730-d307ca884978?auto=format&fit=crop&q=80&w=800"
-  },
-  {
-    id: "2",
-    title: "Optimizing React for High-Performance Systems",
-    excerpt: "Common pitfalls and performance patterns for building complex dashboards and visualization tools.",
-    date: "May 28, 2025",
-    readTime: "8 min read",
-    category: "Development",
-    imageUrl: "https://images.unsplash.com/photo-1633356122544-f134324a6cee?auto=format&fit=crop&q=80&w=800"
-  },
-  {
-    id: "3",
-    title: "Demystifying Distributed State",
-    excerpt: "How to manage consistency across multiple users in a distributed whiteboard application.",
-    date: "April 15, 2025",
-    readTime: "6 min read",
-    category: "Architecture",
-    imageUrl: "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?auto=format&fit=crop&q=80&w=800"
-  }
 ];

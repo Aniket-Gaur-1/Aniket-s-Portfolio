@@ -30,13 +30,3 @@ export interface Education {
   period: string;
   coursework?: string[];
 }
-
-export interface BlogPost {
-  id: string;
-  title: string;
-  excerpt: string;
-  date: string;
-  readTime: string;
-  category: string;
-  imageUrl: string;
-}
